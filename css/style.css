@@ -26,7 +26,8 @@ body {
 }
 
 main {
-  flex: 1;
+ flex: 1;
+  background: url("../img/flower.jpg") center/cover no-repeat;
 }
 
 .header {
@@ -89,6 +90,12 @@ main {
 .hero {
   text-align: center;
   padding: var(--space-lg);
+}
+
+.gallery__title {
+  text-align: center;
+  margin-top: var(--space-lg);
+  font-size: 2rem;
 }
 
 .gallery__grid {
