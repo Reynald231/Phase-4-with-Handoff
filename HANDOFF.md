@@ -33,6 +33,9 @@ This website was tested using Google Lighthouse in Chrome DevTools and achieved 
 
 ![Lighthouse Report](img/lighthouse.png)
 
+Live link:
+https://reynald231.github.io/Phase-4-with-Handoff/img/lighthouse.png
+
 ---
 
 ## BEM Index
