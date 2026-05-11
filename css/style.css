@@ -152,6 +152,23 @@ main {
   object-fit: cover;
 }
 
+.about {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: var(--space-lg);
+  text-align: center;
+}
+
+.about__title {
+  font-size: 2rem;
+  margin-bottom: var(--space-md);
+}
+
+.about__text {
+  font-size: 1.1rem;
+  line-height: 1.8;
+}
+
 img {
   max-width: 100%;
   height: auto;
